@@ -52,7 +52,8 @@ Installation de l'agent Zabbix 2 (.msi) sur le poste Windows, ouverture
 du port 10050 dans le pare-feu Windows, puis ajout de l'hôte avec le
 template `Windows by Zabbix agent`.
 
-![03-windows-host-green.png]
+<img width="1365" height="652" alt="Capture d&#39;écran 2026-11-04 134317" src="https://github.com/user-attachments/assets/85b4ca03-d1fa-4f07-a9ab-794081f0067a" />
+
 
 ---
 
