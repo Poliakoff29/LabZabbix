@@ -62,7 +62,7 @@ Activation du service SNMP dans **Services → SNMP** sur pfSense avec la
 community `public`. Ajout de l'hôte dans Zabbix avec une interface SNMP
 et le template `Network Generic Device by SNMP`.
 
-![04-pfsense-snmp-config.png]
+<img width="1363" height="644" alt="Capture d&#39;écran 2026-11-04 132229" src="https://github.com/user-attachments/assets/4b0b76aa-20b1-4a06-9fad-d5ebd6f8c9e8" />
 
 ---
 
@@ -97,7 +97,7 @@ Création d'utilisateurs avec assignation de rôles :
 | Admin | Gestion hôtes et configs |
 | User | Lecture seule |
 
-![07-user-roles-config.png]
+<img width="1354" height="680" alt="Capture d&#39;écran 2026-11-04 123538" src="https://github.com/user-attachments/assets/50f34657-44c0-490c-b4e9-269cddc446a5" />
 
 ---
 
