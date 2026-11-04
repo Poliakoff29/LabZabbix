@@ -73,7 +73,13 @@ Activation SNMP via WinBox (**IP → SNMP**) ou CLI RouterOS. Restriction
 d'accès à l'IP du serveur Zabbix uniquement. Template utilisé :
 `MikroTik Router by SNMP`.
 
-![05-mikrotik-host-green.png]
+## Configuration SNMP sur le Mikrotik
+<img width="1358" height="669" alt="SNMP" src="https://github.com/user-attachments/assets/bbcb6b77-224d-433c-93c8-08f93f13250c" />
+
+
+## Host Evailable sur Zabbix
+<img width="1365" height="268" alt="Statut" src="https://github.com/user-attachments/assets/56290311-746c-4c55-ae72-de645321e4e7" />
+
 
 ---
 
